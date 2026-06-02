@@ -1,8 +1,9 @@
 {
   "app": "FarmThatLand",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "date": "2026-06-02",
   "notes": [
+    "\ud83d\ude9c FarmThatLand 1.2.0 \u2014 5x content: quiz, streak, achievements + massive database expansion",
     "\ud83d\ude9c FarmThatLand 1.1 \u2014 NEW home-screen widgets (Crop of the Day, tips & stats), Siri & Shortcuts (App Intents), and Spotlight search across all crops & livestock. Deep OS integration."
   ]
 }
